@@ -1149,7 +1149,8 @@ ul.slides li {
 	.hero h1 {
 		font-size: 100px;
 		line-height: 80px;
-		margin-top: 80px;		
+		margin-top: 80px;
+		color: grey;
 }
 	
 }
